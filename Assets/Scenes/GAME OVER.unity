@@ -272,7 +272,7 @@ Canvas:
   serializedVersion: 3
   m_RenderMode: 1
   m_Camera: {fileID: 1754673083}
-  m_PlaneDistance: 200
+  m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -556,7 +556,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -728, y: 157}
+  m_AnchoredPosition: {x: -626, y: 157}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &500998416
@@ -581,19 +581,18 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 64
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 6
-    m_MaxSize: 64
+    m_MinSize: 4
+    m_MaxSize: 300
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "1650700311 \u0E13\u0E31\u0E10\u0E1E\u0E07\u0E28\u0E4C \u0E04\u0E33\u0E0A\u0E38\u0E21\u0E20\u0E39
-    sec.229G No.3 : Level Designer"
+  m_Text: '1650700311 Nattapong Kamchumpoo sec.229G No.3 : Level Designer'
 --- !u!222 &500998417
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -862,7 +861,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -746, y: -17}
+  m_AnchoredPosition: {x: -602, y: 18}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1466214212
@@ -887,7 +886,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 64
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
@@ -898,8 +897,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "1650708660 \u0E18\u0E19\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C \u0E23\u0E2D\u0E1A\u0E2A\u0E31\u0E19\u0E15\u0E34\u0E2A\u0E38\u0E02
-    sec.229G No.29 : Programer"
+  m_Text: '1650708660 Thanasit Robsuntisuk sec.229G No.29 : Programer'
 --- !u!222 &1466214213
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -934,7 +932,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1504525786}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -9721.486}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 7.414718, y: 2.8697138, z: 5.978571}
   m_ConstrainProportionsScale: 0
   m_Children: []
